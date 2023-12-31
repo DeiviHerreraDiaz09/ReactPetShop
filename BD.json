@@ -1,0 +1,354 @@
+{
+  "Usuarios": [
+    {
+      "tipodoc": "Cédula Ciudadanía",
+      "numdoc": "1",
+      "fechaNac": "2023-09-19",
+      "nombre": "Dayana Alejandra",
+      "apellido": "Vargas",
+      "Contraseña": "123456",
+      "id": 2
+    },
+    {
+      "tipodoc": "Cédula Ciudadanía",
+      "numdoc": "2",
+      "fechaNac": "2023-09-06",
+      "nombre": "asdasdasdasdasd",
+      "apellido": "Hernandez",
+      "Contraseña": "123",
+      "id": 3
+    },
+    {
+      "tipodoc": "Cédula Ciudadanía",
+      "numdoc": "1033679469",
+      "fechaNac": "2023-09-15",
+      "nombre": "Deivi",
+      "apellido": "Stiven",
+      "Contraseña": "123",
+      "id": 4
+    },
+    {
+      "tipodoc": "Cédula Ciudadanía",
+      "numdoc": "123456789",
+      "fechaNac": "2023-09-13",
+      "nombre": "Juan",
+      "apellido": "Hernandez",
+      "Contraseña": "123",
+      "id": 5
+    },
+    {
+      "tipodoc": "Cédula Ciudadanía",
+      "numdoc": "654654646464",
+      "fechaNac": "2023-09-07",
+      "nombre": "Andres",
+      "apellido": "Rodriguez",
+      "Contraseña": "123",
+      "id": 6
+    }
+  ],
+  "Tienda": [
+    {
+      "id": 1,
+      "Nombre": "Pet",
+      "Num_acceso": 123,
+      "Direccion": "Calle 52 # 32-95",
+      "Telefono": "3044028836"
+    },
+    {
+      "id": 2,
+      "Nombre": "las mascotas de lupita",
+      "Num_acceso": 1234,
+      "Direccion": "Calle 100 # 22-30",
+      "Telefono": "123"
+    },
+    {
+      "id": 3,
+      "Nombre": "Laika",
+      "Num_acceso": 1235,
+      "Direccion": "Calle 22 # 10-15",
+      "Telefono": "546546446"
+    },
+    {
+      "id": 4,
+      "Nombre": "Animalitos De Pedro",
+      "Num_acceso": 1236,
+      "Direccion": "Calle 59 # 10-45",
+      "Telefono": "4646116"
+    },
+    {
+      "Nombre": "PRUEBA",
+      "Direccion": "Cualquiera",
+      "Telefono": "123",
+      "Num_acceso": "123",
+      "id": 5
+    }
+  ],
+  "Productos": [
+    {
+      "id": 1,
+      "Nombre": "Royal Canin Adulto",
+      "Categoria": "Caninos",
+      "Fecha_Caducidad": "2024-08-15",
+      "Valor": 45000,
+      "Presentación": "Croquetas",
+      "Fabricante": "Royal Canin",
+      "id_tienda": "1"
+    },
+    {
+      "id": 2,
+      "Nombre": "Hueso de Nylon para Masticar",
+      "Categoria": "Caninos",
+      "Fecha_Caducidad": null,
+      "Valor": 15000,
+      "Presentación": "Juguete",
+      "Fabricante": "Nylabone",
+      "id_tienda": 2
+    },
+    {
+      "id": 3,
+      "Nombre": "Champú Hipoalergénico",
+      "Categoria": "Caninos",
+      "Fecha_Caducidad": "2024-12-31",
+      "Valor": 12000,
+      "Presentación": "Botella 250ml",
+      "Fabricante": "Hartz",
+      "id_tienda": 3
+    },
+    {
+      "id": 4,
+      "Nombre": "Arnés Ajustable para Perros",
+      "Categoria": "Caninos",
+      "Fecha_Caducidad": null,
+      "Valor": 25000,
+      "Presentación": "Tallas Variadas",
+      "Fabricante": "Kong",
+      "id_tienda": 4
+    },
+    {
+      "id": 5,
+      "Nombre": "Pelota de Goma Resistente",
+      "Categoria": "Caninos",
+      "Fecha_Caducidad": null,
+      "Valor": 8000,
+      "Presentación": "Pelota",
+      "Fabricante": "Chuckit!",
+      "id_tienda": 1
+    },
+    {
+      "id": 6,
+      "Nombre": "Collar de Cuero con Placa de Identificación",
+      "Categoria": "Caninos",
+      "Fecha_Caducidad": null,
+      "Valor": 18000,
+      "Presentación": "Tallas Variadas",
+      "Fabricante": "Petsafe",
+      "id_tienda": 2
+    },
+    {
+      "id": 7,
+      "Nombre": "Comedero Automático Programable",
+      "Categoria": "Caninos",
+      "Fecha_Caducidad": null,
+      "Valor": 35000,
+      "Presentación": "1.5 litros",
+      "Fabricante": "Petnet",
+      "id_tienda": 3
+    },
+    {
+      "id": 8,
+      "Nombre": "Snacks de Pollo Deshidratado",
+      "Categoria": "Caninos",
+      "Fecha_Caducidad": "2024-06-30",
+      "Valor": 10000,
+      "Presentación": "Bolsa 100g",
+      "Fabricante": "Blue Buffalo",
+      "id_tienda": 4
+    },
+    {
+      "id": 9,
+      "Nombre": "Cama Suave y Cálida para Perros",
+      "Categoria": "Caninos",
+      "Fecha_Caducidad": null,
+      "Valor": 28000,
+      "Presentación": "Tallas Variadas",
+      "Fabricante": "Frisco",
+      "id_tienda": 1
+    },
+    {
+      "id": 10,
+      "Nombre": "Chaleco Salvavidas para Perros",
+      "Categoria": "Caninos",
+      "Fecha_Caducidad": null,
+      "Valor": 22000,
+      "Presentación": "Tallas Variadas",
+      "Fabricante": "Outward Hound",
+      "id_tienda": 2
+    },
+    {
+      "id": 11,
+      "Nombre": "Dental Sticks para la Higiene Bucal",
+      "Categoria": "Caninos",
+      "Fecha_Caducidad": "2024-09-30",
+      "Valor": 9000,
+      "Presentación": "Paquete 10 unidades",
+      "Fabricante": "Greenies",
+      "id_tienda": 3
+    },
+    {
+      "id": 12,
+      "Nombre": "Juguete Peluche con Sonido",
+      "Categoria": "Caninos",
+      "Fecha_Caducidad": null,
+      "Valor": 12000,
+      "Presentación": "Diversos Diseños",
+      "Fabricante": "ZippyPaws",
+      "id_tienda": 4
+    },
+    {
+      "id": 13,
+      "Nombre": "Cepillo de Dientes para Perros",
+      "Categoria": "Caninos",
+      "Fecha_Caducidad": null,
+      "Valor": 7500,
+      "Presentación": "Cepillo + Pasta",
+      "Fabricante": "Virbac",
+      "id_tienda": 1
+    },
+    {
+      "id": 14,
+      "Nombre": "Transportadora de Viaje para Perros",
+      "Categoria": "Caninos",
+      "Fecha_Caducidad": null,
+      "Valor": 30000,
+      "Presentación": "Tallas Variadas",
+      "Fabricante": "Sherpa",
+      "id_tienda": 2
+    },
+    {
+      "id": 15,
+      "Nombre": "Pañales Desechables para Perros",
+      "Categoria": "Caninos",
+      "Fecha_Caducidad": null,
+      "Valor": 16000,
+      "Presentación": "Paquete 12 unidades",
+      "Fabricante": "Simple Solution",
+      "id_tienda": 3
+    },
+    {
+      "id": 16,
+      "Nombre": "Champú Antipulgas y Garrapatas",
+      "Categoria": "Caninos",
+      "Fecha_Caducidad": "2024-11-15",
+      "Valor": 14000,
+      "Presentación": "Botella 350ml",
+      "Fabricante": "Bayer",
+      "id_tienda": 4
+    },
+    {
+      "id": 17,
+      "Nombre": "Juguete Dispensador de Comida",
+      "Categoria": "Caninos",
+      "Fecha_Caducidad": null,
+      "Valor": 18000,
+      "Presentación": "Diversos Diseños",
+      "Fabricante": "KONG",
+      "id_tienda": 1
+    },
+    {
+      "id": 18,
+      "Nombre": "Correa Extensible para Paseos",
+      "Categoria": "Caninos",
+      "Fecha_Caducidad": null,
+      "Valor": 20000,
+      "Presentación": "Tallas Variadas",
+      "Fabricante": "Flexi",
+      "id_tienda": 2
+    },
+    {
+      "id": 19,
+      "Nombre": "Shampoo de Aloe Vera para Piel Sensible",
+      "Categoria": "Caninos",
+      "Fecha_Caducidad": "2024-07-31",
+      "Valor": 11000,
+      "Presentación": "Botella 250ml",
+      "Fabricante": "TropiClean",
+      "id_tienda": 3
+    },
+    {
+      "id": 20,
+      "Nombre": "Almohadilla de Entrenamiento para Cachorros",
+      "Categoria": "Caninos",
+      "Fecha_Caducidad": null,
+      "Valor": 18000,
+      "Presentación": "Paquete 50 unidades",
+      "Fabricante": "AmazonBasics",
+      "id_tienda": 4
+    },
+    {
+      "Nombre": "PRUEBA PRODUCTOS",
+      "Categoria": "Felinos",
+      "Fecha_Caducidad": "2023-09-16",
+      "Valor": "5000",
+      "Presentación": "Carne",
+      "Fabricante": "Cristian",
+      "id_tienda": 5,
+      "id": 21
+    }
+  ],
+  "Venta": [
+    {
+      "tipodoc": "Cédula Ciudadanía",
+      "numdoc": "3",
+      "nombre": "asdasdasdasdasd",
+      "apellido": "Hernandez",
+      "Cantidad": 1,
+      "id_producto": "1",
+      "id": 1
+    },
+    {
+      "tipodoc": "Cédula Ciudadanía",
+      "numdoc": "1033679469",
+      "nombre": "Deivi",
+      "apellido": "Stiven",
+      "id_producto": "2",
+      "cantidad": "2",
+      "id": 2
+    },
+    {
+      "tipodoc": "Cédula Ciudadanía",
+      "numdoc": "654654646464",
+      "nombre": "Andres",
+      "apellido": "Rodriguez",
+      "id_producto": "3",
+      "cantidad": "2",
+      "id": 3
+    },
+    {
+      "tipodoc": "Cédula Ciudadanía",
+      "numdoc": "1",
+      "nombre": "Dayana Alejandra",
+      "apellido": "Vargas",
+      "id_producto": "23",
+      "cantidad": "5",
+      "id": 4
+    },
+    {
+      "tipodoc": "Cédula Ciudadanía",
+      "numdoc": "1033679469",
+      "nombre": "Deivi",
+      "apellido": "Stiven",
+      "id_producto": "18",
+      "cantidad": "2",
+      "id": 5
+    },
+    {
+      "tipodoc": "Cédula Ciudadanía",
+      "numdoc": "1",
+      "nombre": "Dayana Alejandra",
+      "apellido": "Vargas",
+      "id_producto": "21",
+      "cantidad": "5",
+      "id": 6
+    }
+  ]
+}
